@@ -1,0 +1,22 @@
+uuid = "4ade17f9-917b-49a4-8338-9bc4282f3ee9"
+name = "Album Links"
+authors = ["Bob Swift"]
+description = "This plugin provides quick links to an album's related web pages from the \"Plugin Tools\" menu."
+api = ['3.0']
+license = "GPL-2.0-or-later"
+license_url = "https://www.gnu.org/licenses/gpl-2.0.html"
+long_description = """
+This plugin provides quick links to an album's related web pages from the "Plugin Tools" menu. The types of links to be displayed are selected in the options settings page for the plugin.
+"""
+categories = ["other"]
+homepage = "https://picard-plugins-user-guides.readthedocs.io/en/latest/album_links/user_guide.html"
+report_bugs_to = "https://github.com/rdswift/picard-plugin-album-links/issues"
+
+[name_i18n]
+fr = "Liens vers les albums"
+
+[description_i18n]
+fr = "Ce plugin propose des liens rapides vers les pages Web associées à un album depuis le menu « Outils du plugin »."
+
+[long_description_i18n]
+fr = "Ce plugin propose des liens rapides vers les pages Web associées à un album depuis le menu « Outils du plugin ». Les types de liens à afficher sont sélectionnés dans la page des paramètres d'options du plugin."
