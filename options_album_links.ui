@@ -78,6 +78,13 @@
     </spacer>
    </item>
    <item>
+    <widget class="QCheckBox" name="cb_show_link_source">
+     <property name="text">
+      <string>option.show_link_source</string>
+     </property>
+    </widget>
+   </item>
+   <item>
     <widget class="QGroupBox" name="gb_select_links">
      <property name="title">
       <string>section.select_links.title</string>
